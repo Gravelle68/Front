@@ -21,6 +21,8 @@ const getRouteByUrl = (url) => {
   }
 };
 
+
+
 // Fonction pour charger le contenu de la page
 const LoadContentPage = async () => {
   const path = window.location.pathname;
